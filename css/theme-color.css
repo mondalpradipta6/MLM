@@ -1,0 +1,172 @@
+/* Theme Color Default  #e3120b = rgba(227, 14, 11 */
+
+/* TEXT COLOR */
+.ulockd-title-icon,
+.ulockd-gallery-slider .owl-prev,
+.ulockd-gallery-slider .owl-next,
+.team-icon a,
+.twitter.style2 ul li a,
+.text-thm2 {
+  color: #e3120b !important;
+}
+
+/* TEXT HOVER COLOR */
+.ulockd-sitemap > li a:hover,
+.ulockd-shop-item:hover h3,
+.ulockd-srvc-column:hover .srvc-details h3,
+.ulockd-fservice-box:hover h3,
+.ulockd-bp-btn:hover,
+.ulockd-bp-details.style2:hover .ulockd-bp-title h3 {
+	color: #e3120b;
+}
+nav.navbar.bootsnav.light-red ul.nav > li > a.active,
+nav.navbar.bootsnav.light-red ul.nav > li > a:hover,
+nav.navbar.bootsnav.light-red li.dropdown ul.dropdown-menu > li > a:hover {
+	color: #e3120b;
+}
+
+/* BACKGROUND COLOR */
+nav.navbar.bootsnav.ulockd-menu-style-two li.dropdown ul.dropdown-menu,
+.attr-nav > ul > li > a span.badge,
+.ulockd-home-two,
+.srv-icon,
+.ulockd-ffact-two .ulockd-icon-let,
+.ulockd-copy-right,
+.ulockd-l2-copy-right,
+.price-tag,
+.ulocked-pricing-tag,
+.ulockd-contact-details .ulockd-contact-place > li,
+.ulockd-product-details a.btn.hvr-bounce-to-right:before,
+.ulockd-all-service a.active,
+nav.navbar.bootsnav.ulockd-menu-style-two #navbar-menu,
+.navbar-sticky.navbar-scrollspy.ulockd-menu-style-two,
+.ulockd-faq-content .panel-default > .panel-heading,
+.ulockd-bgthm2 {
+	background-color: #e3120b;
+}
+.ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all, 
+.ui-timepicker-list .ui-timepicker-selected:hover, 
+.ui-timepicker-list li:hover, 
+li.ui-timepicker-selected {
+	background-color: #e3120b;
+
+}
+
+/* HOVER BACKGROUND COLOR */
+.ulockd-social-linked a:hover,
+.ulockd-social-linked-two a:hover,
+.form-group.ulockd-contact-btn:hover button,
+.ulockd-tag-list-details a:hover,
+.ulockd-srvcs-column:hover,
+.ulockd-srvc-col-two:hover,
+.ulockd-tag-list-details li:hover a,
+.fservice-slider .owl-prev:hover, 
+.fservice-slider .owl-next:hover,
+.fservice-slider .owl-dot.active span,
+.fservice-slider .owl-dot:hover span,
+.fservice-slider .owl-dot:focus span,
+.ulockd-gallery-slider .owl-prev:hover, 
+.ulockd-gallery-slider .owl-next:hover,
+.team-icon a:hover,
+.partner-slider .owl-dot.active span, 
+.partner-slider .owl-dot:hover span,
+.partner-slider .owl-dot:focus span,
+.ulockd-footer-font-icon a:hover {
+	background-color: #e3120b;
+}
+.ulockd-main-slider2 .owl-next:hover,
+.ulockd-main-slider2 .owl-prev:hover,
+.blog-post-img-slider .owl-prev:hover,
+.blog-post-img-slider .owl-next:hover,
+.ulockd-bpost-slider .owl-controls .owl-prev:hover,
+.ulockd-bpost-slider .owl-controls .owl-next:hover {
+	background-color: #e3120b;
+}
+.masonry-filter a.active,
+.masonry-filter a:active,
+.masonry-filter a:hover,
+.masonry-filter a:focus {
+	background-color: #e3120b;
+}
+
+/* BACKGROUND COLOR TRANSPARENT */
+.ulockd-ap-service-two::before,
+.ulockd-coming-soon::before,
+.ulockd-uconctruction::before,
+.ulockd-icd-layer::before,
+.ulockd-service-box,
+.ulockd-gallery-thumb .overlayer,
+.blog-overlay {
+	background-color: rgba(227, 14, 11, .98);
+}
+.ulockd-frst-divider.style1::before,
+.ulockd-recent-project1 .overlay {
+	background-color: rgba(227, 14, 11, .75);
+}
+.flickr-widget li .thumb .overlay,
+.ulockd-coming-soon::before,
+.ulockd-uconctruction::before {
+	background-color: rgba(227, 14, 11, .7);
+}
+.ulockd-fservice-box .db-overlayer {
+	background-color: rgba(227, 14, 11, .65);
+}
+.ulockd-srvcs-overlay,
+.gallery-overlay,
+.team-overlay,
+.ulockd-tm-overlay {
+	background-color: rgba(227, 14, 11, .6);
+}
+.ulockd-frst-divider::before,
+.ulockd-gallery-thumb .layer,
+.ulockd-gallery-thumb-l2 .layer {
+	background-color: rgba(227, 14, 11, 0.9);
+}
+
+/* BUTTON TEMPALTE COLOR */
+.ulockd-btn-thm2 {
+  background-color: #e3120b;
+  border-color: #e3120b;
+}
+.ulockd-btn-styledark:hover,
+.ulockd-btn-styledark:active,
+.ulockd-btn-styledark:focus {
+  background-color: #e3120b;
+}
+.ulockd-btn-white:hover,
+.ulockd-btn-white:active,
+.ulockd-btn-white:focus {
+  background-color: #e3120b !important;
+  border-color: #e3120b !important;
+}
+.ulockd-btn-gray:hover,
+.ulockd-btn-gray:active,
+.ulockd-btn-gray:focus {
+  background-color: #e3120b !important;
+  border-color: #e3120b !important;
+}
+
+/* BORDER TEMPALTE COLOR */
+.ulockd-srvc-column {
+    border: 1px solid #e3120b;	
+}
+nav.navbar li.dropdown ul.dropdown-menu {
+	border-top: 5px solid #e3120b
+}
+.header-nav .main-header-nav.navbar-scrolltofixed {
+    border-top: 1px solid #e3120b;
+}
+.ulockd-bb-dashed {
+	border-bottom: 1px dashed #e3120b;
+}
+.ulockd-main-slider2 .owl-next, .ulockd-main-slider2 .owl-prev, .ulockd-contact-form .ulockd-form-fg {
+    border: 2px solid #e3120b;
+}
+.ulockd-all-service a.active {
+	border-color:  #e3120b;
+}
+/* Hover Border COlor */
+.team-icon a:hover,
+.team-details .team-icon a {	
+    border: 1px solid #e3120b;
+}
